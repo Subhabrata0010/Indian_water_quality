@@ -52,7 +52,7 @@ Here are some of the generated plots from the analysis:
 
 Plot 1 – Example Trend
 
-Plot 2 – Distribution
+![model accuracy on this dataset](screenshots/model_accuracy.png) – Distribution
 
 Plot 3 – Correlation Heatmap
 
@@ -65,9 +65,7 @@ Plot 3 – Correlation Heatmap
 ├── analysis.ipynb       # Main notebook
 ├── requirements.txt     # Python dependencies
 ├── screenshots/         # Saved plots for README
-│   ├── plot1.png
-│   ├── plot2.png
-│   └── heatmap.png
+│   └── example.png
 └── README.md            # Project documentation
 
 ```

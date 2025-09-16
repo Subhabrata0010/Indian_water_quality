@@ -50,11 +50,13 @@ pip install -r requirements.txt
 
 Here are some of the generated plots from the analysis:
 
-Plot 1 – Example Trend
+![changes based on year](screenshots/dis_year.png) - changes based on year
 
-![model accuracy on this dataset](screenshots/model_accuracy.png) – Distribution
+![model accuracy on this dataset](screenshots/model_accuracy.png) – model accuracy on this dataset
 
-Plot 3 – Correlation Heatmap
+![heatmap on water quality params](screenshots/heatmap_waterquality.png) - heatmap on water quality params
+
+### etc.. in /screenshots
 
 >(Each plot is saved in the screenshots/ folder.)
 
